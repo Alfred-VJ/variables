@@ -1,0 +1,15 @@
+{
+  "name": "variables",
+  "version": "1.0.0",
+  "description": "Ejercicios del tema variables del curso nivel basico de javascritp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "curso JS"
+  },
+  "author": "Alfredo Velazquez",
+  "license": "ISC"
+}
